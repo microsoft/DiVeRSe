@@ -1,3 +1,3 @@
 # DiVeRSe
 
-We are going through the release & compliance process. The data and code are expected to be released in the first week of August.
+Please kindly find the resources in this repository: https://github.com/microsoft/CodeT.
